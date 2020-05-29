@@ -14,7 +14,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+<<<<<<< HEAD:overlay/packages/apps/Evolver/res/values/evolution_strings.xml
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="evolution_about_maintainer">oddlyspaced</string>
     <string name="evolution_about_maintainer_summary">I hamve speemch impemdiment.</string>
+=======
+<resources>
+    <!-- The margin between the pattern view and the Emergency Carrier area -->
+    <dimen name="pattern_view_bottom_margin">200px</dimen>
+
+    <!-- The margin between the pin view and the Emergency Carrier area -->
+    <dimen name="pin_view_bottom_margin">200px</dimen>
+>>>>>>> afa2237... Added Lockscreen Fod Overlap Fix and some strings to enable features like smart pixels and notch hiding:overlay-aosp/frameworks/base/packages/SystemUI/res/values-port/dimens.xml
 </resources>

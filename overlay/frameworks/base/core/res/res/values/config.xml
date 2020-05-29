@@ -180,6 +180,14 @@
     -->
      <bool name="config_enableWifiDisplay">true</bool>
 
+     <!-- Whether the device supports Smart Pixels --> 
+     <bool name="config_enableSmartPixels">true</bool>
+     <!-- If true, the display will be shifted around in ambient mode. -->      
+     <bool name="config_enableBurnInProtection">true</bool>
+     <!-- Whether the device has notch. -->      
+     <bool name="config_physicalDisplayCutout">true</bool>
+
+
     <!-- Is the device capable of hot swapping an ICC Card -->
      <bool name="config_hotswapCapable">true</bool>
 
