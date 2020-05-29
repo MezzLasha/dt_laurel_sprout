@@ -13,8 +13,8 @@
 -->
 <resources>
     <!-- The margin between the pattern view and the Emergency Carrier area -->
-    <dimen name="pattern_view_bottom_margin">190px</dimen>
+    <dimen name="pattern_view_bottom_margin">200px</dimen>
 
     <!-- The margin between the pin view and the Emergency Carrier area -->
-    <dimen name="pin_view_bottom_margin">190px</dimen>
+    <dimen name="pin_view_bottom_margin">200px</dimen>
 </resources>
